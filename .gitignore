@@ -39,3 +39,24 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+
+# Test coverage
+coverage.json
+.nyc_output
+
+# Logs
+logs
+*.log
+
+# Temporary files
+tmp/
+temp/
